@@ -6,7 +6,7 @@ data "template_file" "user_data" {
 resource "oci_core_instance" "web-01" {
   availability_domain = data.oci_identity_availability_domains.ADs.availability_domains[var.AD - 1]["name"]
   compartment_id      = var.compartment_ocid
-  display_name        = "01-Web-JuliaCars"
+  display_name        = "000001-Web-JuliaCars"
   shape               = var.instance_shape
 
   shape_config {
