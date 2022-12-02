@@ -8,9 +8,9 @@ resource "oci_autoscaling_auto_scaling_configuration" "JuliaCarsThresholdAutoSca
     policies {
         display_name = "JuliaCarsThresholdAutoScalingConfigurationPolicies"
         capacity {
-            initial = "1"
+            initial = "0"
             max = "2"
-            min = "1"
+            min = "0"
         }
         policy_type = "threshold"
         rules {
@@ -23,7 +23,7 @@ resource "oci_autoscaling_auto_scaling_configuration" "JuliaCarsThresholdAutoSca
                 metric_type = "CPU_UTILIZATION"
                 threshold {
                     operator = "GT"
-                    value = "80"
+                    value = "99"
                 }
             }
         }
@@ -37,7 +37,7 @@ resource "oci_autoscaling_auto_scaling_configuration" "JuliaCarsThresholdAutoSca
                 metric_type = "CPU_UTILIZATION"
                 threshold {
                     operator = "LT"
-                    value = "20"
+                    value = "1"
                 }
             }
         }
