@@ -34,7 +34,7 @@ resource "oci_core_instance" "web-01" {
 resource "oci_core_instance" "web-02" {
   availability_domain = data.oci_identity_availability_domains.ADs.availability_domains[var.AD - 1]["name"]
   compartment_id      = var.compartment_ocid
-  display_name        = "02-Web-JuliaCars"
+  display_name        = "0000002-Web-JuliaCars"
   shape               = var.instance_shape
 
   shape_config {
