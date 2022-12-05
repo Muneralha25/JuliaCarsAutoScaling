@@ -8,7 +8,7 @@ resource "oci_autoscaling_auto_scaling_configuration" "JuliaCarsThresholdAutoSca
     policies {
         display_name = "JuliaCarsThresholdAutoScalingConfigurationPolicies"
         capacity {
-            initial = "1"
+            initial = "var.InitialcalingSize"
             max = "2"
             min = "1"
         }
