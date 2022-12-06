@@ -1,4 +1,4 @@
 variable "minimal_size" {
   description = "tamanho inicial do Scalling Web"
-  default     = "2"
+  default     = "1"
 }
