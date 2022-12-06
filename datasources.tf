@@ -3,7 +3,7 @@ data "oci_identity_availability_domains" "ADs" {
   compartment_id = var.tenancy_ocid
 }
 
-# Gets a list of supported images based on the shape, operating_system and operating_system_version provided
+# Gets a list of supported images based on the shape, operating_system and operating_system_version provided a
 data "oci_core_images" "compute_images" {
   compartment_id           = var.compartment_ocid
   operating_system         = var.image_operating_system
