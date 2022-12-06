@@ -1,1 +1,1 @@
-more tests1
+"variable "minimal_size" {default     = "2"}"
