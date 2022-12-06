@@ -2,7 +2,7 @@ name: oci-resource-manager-build-demo
 on:
   push:
     branches:
-      - github-actions-resource-manager
+      - dev
 jobs:
   build-resource-manager:
     name: Build Resource Manager
