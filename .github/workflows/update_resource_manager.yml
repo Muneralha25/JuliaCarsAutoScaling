@@ -8,10 +8,9 @@ jobs:
     name: Build Resource Manager
     runs-on: ubuntu-latest
     env: 
-        STACK_NAME: "OCI Resource Manager Demo Stack"
+        STACK_NAME: "JuliaCars_upload"
         PROVIDER_NAME: "GitHub Source Provider"
-        BRANCH_NAME: "github-actions-resource-manager"
-        REPO_URL: "https://github.com/recursivecodes/oci-resource-manager-demo"
+        BRANCH_NAME: "dev"
         TF_VERSION: "0.14.x"
       
     steps:
