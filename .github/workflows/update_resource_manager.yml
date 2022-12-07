@@ -10,7 +10,7 @@ jobs:
     env: 
         STACK_NAME: "JuliaCars_upload"
         PROVIDER_NAME: "GitHub Source Provider"
-        BRANCH_NAME: "dev"
+        BRANCH_NAME: "main"
         TF_VERSION: "0.14.x"
       
     steps:
