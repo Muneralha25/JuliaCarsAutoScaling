@@ -91,6 +91,11 @@ existe um script PHP que pode ser utilizado para verificar se o Load Balance est
 
 ![image](https://user-images.githubusercontent.com/109544121/206064210-9b66e025-1255-4383-b2b1-7bb492405db7.png)
 
+o Portal esta em Funcionamento
+
+![image](https://user-images.githubusercontent.com/109544121/206064392-f3924b6e-6e3f-4027-bdbd-952ec4285806.png)
+
+
 
 
 
