@@ -83,4 +83,9 @@ o Terraform tem um output com o IP Public para acesso ao Portal o VIP do Load Ba
 ![image](https://user-images.githubusercontent.com/109544121/206063078-38ebc263-750c-446f-a507-8eb79c5ac8c4.png)
 
 
+Validando se o acesso esta OK e disponivel pelo IP Pulico do Balanceador
+
+![image](https://user-images.githubusercontent.com/109544121/206063502-5566f1d2-fbfa-483c-9d79-755d4e8324a4.png)
+
+
 
