@@ -96,6 +96,18 @@ o Portal esta em Funcionamento
 ![image](https://user-images.githubusercontent.com/109544121/206064392-f3924b6e-6e3f-4027-bdbd-952ec4285806.png)
 
 
+Julia então decide então colocar mais um Servidor Web no Portal JuliaCars Rodando um Script na sua maquina local
+
+![image](https://user-images.githubusercontent.com/109544121/206064593-1ecd93f5-26fc-4311-b9a7-224ca72e7b93.png)
+
+
+o arquivo de Auto Scaling tem configuração não alteraveis com maximo de CPU de 99% e Minino de 1 % alterando somente o inicial Size Paramenters 
+
+
+
+
+
+
 
 
 
