@@ -1,1 +1,1 @@
-variable "minimal_size" {default     = "1"}
+variable "minimal_size" {default     = "2"}
