@@ -103,6 +103,8 @@ Julia então decide então colocar mais um Servidor Web no Portal JuliaCars Roda
 
 o arquivo de Auto Scaling tem configuração não alteraveis com maximo de CPU de 99% e Minino de 1 % alterando somente o inicial Size Paramenters 
 
+O SCRIPT SO FAZ UM COMMIT ARQUIVO TF size_scaling.tf para 2 e o ACTIONS FAZ o START NO STACK NOVAMENTE !!! 
+
 
 
 
