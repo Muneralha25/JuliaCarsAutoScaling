@@ -77,4 +77,9 @@ aguarde a infra ser provisionada pela Stack do Oracle Resource Manager
 ![image](https://user-images.githubusercontent.com/109544121/206061990-64c7b4d3-a4e6-4ce7-9153-249875a5c699.png)
 
 
+o Terraform tem um output com o IP Public para acesso ao Portal o VIP do Load Balance
+
+![image](https://user-images.githubusercontent.com/109544121/206063078-38ebc263-750c-446f-a507-8eb79c5ac8c4.png)
+
+
 
