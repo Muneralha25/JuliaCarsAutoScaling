@@ -18,7 +18,7 @@ Com este método ela consegue alterar a quantidade de servidores disponiveis par
 
 Tecnologia
 
-•	Script User Frindelly com Python 
+•	Script User Frindelly com Python
 •	TerraForm (OCI Resource Managers)
 •	Github para versionamento e armazemanto do IaC do Portal
 •	Github Action
@@ -38,6 +38,9 @@ Tarefas
 
 Topologia e Lógica
 Desenho da topologia e integrações
+
+![image](https://user-images.githubusercontent.com/109544121/206062546-672508e6-50b3-4963-ad49-2a229498a1f7.png)
+
 
 
 
