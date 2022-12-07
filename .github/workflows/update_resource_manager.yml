@@ -2,7 +2,7 @@ name: oci-resource-manager
 on:
   push:
     branches:
-      - dev
+      - main
 jobs:
   build-resource-manager:
     name: Build Resource Manager
