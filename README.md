@@ -114,6 +114,19 @@ apos o script o Git Actions já disparou um novo Apply no JOB
 ![image](https://user-images.githubusercontent.com/109544121/206066823-ef047745-6869-4f94-8999-b7d113f3f805.png)
 
 
+e então o 4 servidor e adicionado ao Load Balance e ao Portal JuliaCars
+
+![image](https://user-images.githubusercontent.com/109544121/206067521-a60f664d-03a9-40f0-8376-ecd78cc70611.png)
+
+![image](https://user-images.githubusercontent.com/109544121/206067668-ad31fd36-824b-4ff3-bf17-f01882765509.png)
+![image](https://user-images.githubusercontent.com/109544121/206067696-6548e211-098b-46eb-82ab-a3382c2af938.png)
+
+
+
+
+
+
+
 
 
 
