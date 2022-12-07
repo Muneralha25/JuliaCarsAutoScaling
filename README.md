@@ -16,26 +16,26 @@ Com este método ela consegue alterar a quantidade de servidores disponiveis par
 
 
 
-Tecnologia
+TECNOLOGIAS
 
-Script User Frindelly com Python
+-Script User Frindelly com Python
 
-TerraForm (OCI Resource Managers)
+-TerraForm (OCI Resource Managers)
  
-Github para versionamento e armazemanto do IaC do Portal
+-Github para versionamento e armazemanto do IaC do Portal
 
-Github Action
+-Github Action
 
-Cloud Provider Oracle OCI 
+-Cloud Provider Oracle OCI 
 
-Oracle Linux Instance com Autoscaling e Load Balance
+-Oracle Linux Instance com Autoscaling e Load Balance
 
-Bucket (armazenamento de imagem do portal e html files)
+-Bucket (armazenamento de imagem do portal e html files)
 
 
-Tarefas
+TAREFAS
 
- - Subir a Infra do Portal via Terraform IaC pelo OCI Resource Manager pelo repositorio Github
+- Subir a Infra do Portal via Terraform IaC pelo OCI Resource Manager pelo repositorio Github
 - Desenvolver um User Frindelly para Julia pode alterar a quantidade de Servidores do Portal
 - o Script será capaz de fazer um Update e commit no Repo do Portal
 - o GitHub Actions do Report tera um action on Push que dispara um novo Apply no Resource Manager 
