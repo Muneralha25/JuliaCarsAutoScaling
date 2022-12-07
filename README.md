@@ -59,7 +59,7 @@ como executar
 ![image](https://user-images.githubusercontent.com/109544121/206060074-370d3c42-2f83-4a1c-85f8-8d7220954273.png)
 
 
-      Selecione o Source Code Control System e informe o Repo onde esta o projeto do TerraForm
+      Selecione o Source Code Control System e informe o Repo onde esta o projeto do TerraForm  < QUE ESTE MESMO REPO QUE ESTAMOS >
       
 ![image](https://user-images.githubusercontent.com/109544121/206060304-e9728dc2-b32f-46e3-8b41-e710bdb9dac5.png)
 
