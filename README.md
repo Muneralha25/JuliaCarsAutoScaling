@@ -106,6 +106,16 @@ o arquivo de Auto Scaling tem configuração não alteraveis com maximo de CPU d
 O SCRIPT SO FAZ UM COMMIT ARQUIVO TF size_scaling.tf para 2 e o ACTIONS FAZ o START NO STACK NOVAMENTE !!! 
 
 
+apos o script o Git Actions já disparou um novo Apply no JOB
+
+![image](https://user-images.githubusercontent.com/109544121/206066797-c263c0f9-c005-4145-998d-d1aa33b3e11a.png)
+
+
+![image](https://user-images.githubusercontent.com/109544121/206066823-ef047745-6869-4f94-8999-b7d113f3f805.png)
+
+
+
+
 
 
 
