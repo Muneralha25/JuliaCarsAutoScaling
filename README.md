@@ -12,7 +12,7 @@ Julia não sabe logar no portal OCI e nem tem perfil técnico na Cloud, também 
 
 Julia sabe e monitora bem a quantidade de acesso no Portal, e os períodos de campanhas de Marketing do Portal mas queria um meio mais user Frindelly para este gerenciamento e escolher a quantidade de servidores no backend e frontend do seu Portal, sem necessidade de interações e chamados para área de TI e seus SLAs. Assim Julia consegue planejar gastos e prever Budget mais acertivos junto as seus Diretores da Empresa 
 
-Julia precisa de um Método interativo e Frindelly que controle o autoscalling (sem interação com área de TI)
+Julia precisa de um Método interativo e Frindelly que controle o autoscaling (sem interação com área de TI)
 Com este método ela consegue alterar a quantidade de servidores disponiveis para suportar a quantidade de acesso ao portal de seus produtos 
 
 
