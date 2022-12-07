@@ -18,13 +18,19 @@ Com este método ela consegue alterar a quantidade de servidores disponiveis par
 
 Tecnologia
 
-•	Script User Frindelly com Python
-•	TerraForm (OCI Resource Managers)
-•	Github para versionamento e armazemanto do IaC do Portal
-•	Github Action
-•	Cloud Provider Oracle OCI 
-•	Oracle Linux Instance com Autoscaling e Load Balance
-•	Bucket (armazenamento de imagem do portal e html files)
+Script User Frindelly com Python
+
+TerraForm (OCI Resource Managers)
+ 
+Github para versionamento e armazemanto do IaC do Portal
+
+Github Action
+
+Cloud Provider Oracle OCI 
+
+Oracle Linux Instance com Autoscaling e Load Balance
+
+Bucket (armazenamento de imagem do portal e html files)
 
 
 Tarefas
