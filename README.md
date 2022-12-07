@@ -87,5 +87,10 @@ Validando se o acesso esta OK e disponivel pelo IP Pulico do Balanceador
 
 ![image](https://user-images.githubusercontent.com/109544121/206063502-5566f1d2-fbfa-483c-9d79-755d4e8324a4.png)
 
+existe um script PHP que pode ser utilizado para verificar se o Load Balance esta distribuindo para os 3 Sites
+
+![image](https://user-images.githubusercontent.com/109544121/206064210-9b66e025-1255-4383-b2b1-7bb492405db7.png)
+
+
 
 
