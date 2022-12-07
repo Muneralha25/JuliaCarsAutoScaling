@@ -13,3 +13,12 @@ como executar
       
 ![image](https://user-images.githubusercontent.com/109544121/206060304-e9728dc2-b32f-46e3-8b41-e710bdb9dac5.png)
 
+
+      Colocar o nome exato de JuliaCars_upload para Posteriomente o Git Actions pegar o Trigger do Commit
+           
+  ![image](https://user-images.githubusercontent.com/109544121/206060806-3297b131-b25b-491b-a4c5-b14180084856.png)
+
+
+![image](https://user-images.githubusercontent.com/109544121/206061242-7b47f43f-87c0-4d9c-b94c-923027e2af3a.png)
+
+
