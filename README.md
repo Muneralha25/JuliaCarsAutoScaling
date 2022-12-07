@@ -22,3 +22,10 @@ como executar
 ![image](https://user-images.githubusercontent.com/109544121/206061242-7b47f43f-87c0-4d9c-b94c-923027e2af3a.png)
 
 
+
+aguarde a infra ser provisionada pela Stack do Oracle Resource Manager
+
+![image](https://user-images.githubusercontent.com/109544121/206061990-64c7b4d3-a4e6-4ce7-9153-249875a5c699.png)
+
+
+
